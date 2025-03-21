@@ -2,7 +2,7 @@
 
 Bankist is a simple banking application built using HTML and JavaScript. It allows users to perform various banking activities such as checking their current balance, viewing transaction history, requesting a loan, transferring money, and closing their account.
 
-Check out the live site: [Omnifood](https://thenewbankist.netlify.app/)
+Check out the live site: [Bankist](https://thenewbankist.netlify.app/)
 
 ## Table of Contents
 
